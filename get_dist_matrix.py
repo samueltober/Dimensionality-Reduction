@@ -50,7 +50,7 @@ def get_city_dist_matrix(cities) -> np.array:
     return dist_matrix
 
 
-def main():
+def create_and_save_dist_matrix():
     import pickle as pkl
     cities = get_cities_from_txt("cities.txt")
     dist_matrix = get_city_dist_matrix(cities)
@@ -60,4 +60,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    create_and_save_dist_matrix()
