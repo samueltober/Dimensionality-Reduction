@@ -1,0 +1,107 @@
+Durban
+Johannesburg
+Pretoria
+Cape Town
+Lusaka
+Harare
+Almaty
+Beirut
+Casablanca
+Rabat
+Antananarivo
+Bamako
+Guadalajara
+Monterrey
+Mexico City
+Tijuana
+Ciudad Juarez
+Kuala Lumpur
+Maputo
+Lagos
+Ibadan
+Benin City
+Kano
+Lima
+Quezon City
+Karachi
+Hyderabad
+Lahore
+Peshawar
+Rawalpindi
+Multan
+Faisalabad
+Warsaw
+Bucharest
+Omsk
+Moscow
+Samara
+Kazan
+Perm
+Novosibirsk
+Khartoum
+Mogadishu
+Bangkok
+Adana
+Ankara
+Istanbul
+Bursa
+Taipei
+Kaohsiung
+Dar es Salaam
+Donetsk
+Odessa
+Kampala
+Montevideo
+Caracas
+Maracaibo
+Dubai
+Kabul
+Yerevan
+Luanda
+Buenos Aires
+Curitiba
+Brasilia
+Recife
+Manaus
+Goiania
+Fortaleza
+Belem
+Rio de Janeiro
+Sao Paulo
+Minsk
+Calgary
+Shanghai
+Nanchang
+Tianjin
+Changsha
+Harbin
+Nanning
+Baotou
+Guiyang
+Shenzhen
+Wuhan
+Medellin
+Havana
+Berlin
+Munich
+Hamburg
+Santo Domingo
+Algiers
+Guayaquil
+Cairo
+Alexandria
+Accra
+Port-au-Prince
+Budapest
+Bekasi
+Jakarta
+Bandung
+Dallas
+Houston
+San Antonio
+New York
+Philadelphia
+San Diego
+Los Angeles
+Chicago
+Phoenix
