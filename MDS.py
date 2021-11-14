@@ -1,4 +1,5 @@
 import numpy as np
+from util import *
 
 
 class MDS:
@@ -50,7 +51,8 @@ class MDS:
 if __name__ == '__main__':
     mds_obj = MDS()
     coords = mds_obj.perform_mds()
-    print(coords)
+    d = get_city_continent_dict()
+    plot_coords(coords, d)
 
 
 
